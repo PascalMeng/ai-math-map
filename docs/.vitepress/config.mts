@@ -72,6 +72,12 @@ export default defineConfig({
       items: [
         { text: '信息论', link: '/information-theory/information-theory' }
       ]
+    },
+    {
+      text: '进阶数学',
+      items: [
+        { text: 'AI 中的复数', link: '/advanced-math/complex-numbers-for-ai' }
+      ]
     }
     ],
 
