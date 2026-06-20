@@ -76,7 +76,8 @@ export default defineConfig({
     {
       text: '进阶数学',
       items: [
-        { text: 'AI 中的复数', link: '/advanced-math/complex-numbers-for-ai' }
+        { text: 'AI 中的复数', link: '/advanced-math/complex-numbers-for-ai' },
+        { text: '傅里叶变换', link: '/advanced-math/fourier-transform' }
       ]
     }
     ],
