@@ -57,7 +57,13 @@ export default defineConfig({
         items: [
           { text: '优化方法', link: '/optimization/optimization' }
         ]
-      }
+      },
+    {
+      text: '信息论',
+      items: [
+        { text: '信息论', link: '/information-theory/information-theory' }
+      ]
+    }
     ],
 
     outline: {
