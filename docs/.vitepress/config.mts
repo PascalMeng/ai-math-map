@@ -38,7 +38,8 @@ export default defineConfig({
           { text: '矩阵变换', link: '/linear-algebra/matrix-transformations' },
           { text: '降维方法', link: '/linear-algebra/dimensionality-reduction' },
           { text: '奇异值分解 SVD', link: '/linear-algebra/svd' },
-          { text: '张量操作', link: '/linear-algebra/tensor-operations' }
+          { text: '张量操作', link: '/linear-algebra/tensor-operations' },
+          { text: '范数与距离', link: '/linear-algebra/norms-distances' }
         ]
       },
       {
