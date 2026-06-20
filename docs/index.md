@@ -1,4 +1,3 @@
-[index.md](https://github.com/user-attachments/files/29157653/index.md)
 ---
 layout: home
 
