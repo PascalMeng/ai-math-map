@@ -36,6 +36,12 @@ export default defineConfig({
           { text: '矩阵变换', link: '/linear-algebra/matrix-transformations' }
         ]
       }
+      {
+        text: '微积分',
+        items: [
+          { text: '机器学习中的微积分', link: '/calculus/calculus-for-ml' }
+        ]
+      }
     ],
 
     outline: {
