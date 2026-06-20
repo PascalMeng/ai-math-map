@@ -19,7 +19,8 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '学习路线', link: '/guide/roadmap' },
       { text: '线性代数', link: '/linear-algebra/vector' },
-      { text: '微积分', link: '/calculus/calculus-for-ml' }
+      { text: '微积分', link: '/calculus/calculus-for-ml' },
+      { text: '概率统计', link: '/probability/probability-distributions' }
     ],
 
     sidebar: [
@@ -42,6 +43,12 @@ export default defineConfig({
         items: [
           { text: '机器学习中的微积分', link: '/calculus/calculus-for-ml' },
           { text: '链式法则与自动微分', link: '/calculus/chain-rule-autodiff' }
+        ]
+      },
+      {
+        text: '概率统计',
+        items: [
+          { text: '概率与分布', link: '/probability/probability-distributions' }
         ]
       }
     ],
