@@ -31,7 +31,8 @@ export default defineConfig({
       {
         text: '线性代数',
         items: [
-          { text: '向量', link: '/linear-algebra/vector' }
+          { text: '向量', link: '/linear-algebra/vector' },
+          { text: '矩阵', link: '/linear-algebra/matrix' }
         ]
       }
     ],
