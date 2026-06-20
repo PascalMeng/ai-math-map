@@ -36,7 +36,7 @@ export default defineConfig({
           { text: '向量、矩阵与基本运算', link: '/linear-algebra/matrix' },
           { text: '矩阵变换', link: '/linear-algebra/matrix-transformations' }
         ]
-      }
+      },
       {
         text: '微积分',
         items: [
