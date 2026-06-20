@@ -1,0 +1,36 @@
+[matrix-multiplication.md](https://github.com/user-attachments/files/29157690/matrix-multiplication.md)
+# 矩阵乘法
+
+## 1. 这个概念解决什么问题？
+
+矩阵乘法用于描述多个线性变换的组合，也用于批量计算数据和模型参数之间的关系。
+
+## 2. AI算法工程师为什么需要它？
+
+在神经网络中，线性层、Attention、Embedding 查询、批量推理等操作，本质上都大量依赖矩阵乘法。
+
+## 3. 最小数学定义
+
+如果矩阵 A 的形状是 m × n，矩阵 B 的形状是 n × p，那么 AB 的结果形状是 m × p。
+
+## 4. 几何直觉
+
+矩阵可以看成一个线性变换。矩阵乘法可以看成多个线性变换的连续执行。
+
+## 5. 在机器学习 / 深度学习中的应用
+
+- 全连接层：Y = XW + b
+- Attention：QK^T
+- 批量样本计算
+- 特征空间变换
+
+## 6. Python / NumPy 示例
+
+```python
+import numpy as np
+
+X = np.array([[1, 2], [3, 4]])
+W = np.array([[0.1, 0.2], [0.3, 0.4]])
+
+Y = X @ W
+print(Y)
