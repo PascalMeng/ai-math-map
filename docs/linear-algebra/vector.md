@@ -1,4 +1,3 @@
-[matrix-multiplication.md](https://github.com/user-attachments/files/29157690/matrix-multiplication.md)
 # 矩阵乘法
 
 ## 1. 这个概念解决什么问题？
