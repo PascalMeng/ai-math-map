@@ -19,6 +19,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '学习路线', link: '/guide/roadmap' },
       { text: '线性代数', link: '/linear-algebra/vector' }
+      { text: '微积分', link: '/calculus/calculus-for-ml' }
     ],
 
     sidebar: [
