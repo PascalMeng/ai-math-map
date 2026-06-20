@@ -36,7 +36,8 @@ export default defineConfig({
           { text: '线性代数直觉', link: '/linear-algebra/vector' },
           { text: '向量、矩阵与基本运算', link: '/linear-algebra/matrix' },
           { text: '矩阵变换', link: '/linear-algebra/matrix-transformations' },
-          { text: '降维方法', link: '/linear-algebra/dimensionality-reduction' }
+          { text: '降维方法', link: '/linear-algebra/dimensionality-reduction' },
+          { text: '奇异值分解 SVD', link: '/linear-algebra/svd' }
         ]
       },
       {
