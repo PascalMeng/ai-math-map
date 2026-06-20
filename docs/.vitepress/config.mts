@@ -48,7 +48,8 @@ export default defineConfig({
       {
         text: '概率统计',
         items: [
-          { text: '概率与分布', link: '/probability/probability-distributions' }
+          { text: '概率与分布', link: '/probability/probability-distributions' },
+          { text: '贝叶斯公式', link: '/probability/bayes-theorem' }  
         ]
       }
     ],
