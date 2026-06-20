@@ -40,7 +40,8 @@ export default defineConfig({
       {
         text: '微积分',
         items: [
-          { text: '机器学习中的微积分', link: '/calculus/calculus-for-ml' }
+          { text: '机器学习中的微积分', link: '/calculus/calculus-for-ml' },
+          { text: '链式法则与自动微分', link: '/calculus/chain-rule-autodiff' }
         ]
       }
     ],
