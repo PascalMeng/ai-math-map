@@ -51,6 +51,12 @@ export default defineConfig({
           { text: '概率与分布', link: '/probability/probability-distributions' },
           { text: '贝叶斯公式', link: '/probability/bayes-theorem' }  
         ]
+      },
+      {
+        text: '优化方法',
+        items: [
+          { text: '优化方法', link: '/optimization/optimization' }
+        ]
       }
     ],
 
