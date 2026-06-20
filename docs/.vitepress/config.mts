@@ -78,7 +78,8 @@ export default defineConfig({
       items: [
         { text: 'AI 中的复数', link: '/advanced-math/complex-numbers-for-ai' },
         { text: '傅里叶变换', link: '/advanced-math/fourier-transform' },
-        { text: '机器学习中的图论', link: '/advanced-math/graph-theory-for-ml' }
+        { text: '机器学习中的图论', link: '/advanced-math/graph-theory-for-ml' },
+        { text: '随机过程', link: '/advanced-math/stochastic-processes' }
       ]
     }
     ],
