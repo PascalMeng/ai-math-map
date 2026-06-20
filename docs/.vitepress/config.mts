@@ -54,7 +54,8 @@ export default defineConfig({
         items: [
           { text: '概率与分布', link: '/probability/probability-distributions' },
           { text: '贝叶斯公式', link: '/probability/bayes-theorem' } ,
-          { text: '机器学习中的统计学', link: '/probability/statistics-for-ml' }
+          { text: '机器学习中的统计学', link: '/probability/statistics-for-ml' },
+          { text: '采样方法', link: '/probability/sampling-methods' }
         ]
       },
       {
