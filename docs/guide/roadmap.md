@@ -1,4 +1,3 @@
-[roadmap.md](https://github.com/user-attachments/files/29157681/roadmap.md)
 # AI算法工程师数学学习路线
 
 这个页面用于回答一个核心问题：
@@ -66,9 +65,7 @@ AI算法工程师需要掌握的数学知识，可以分成六个核心模块：
 
 ### 推荐学习顺序
 
-1. [向量](/linear-algebra/vector)
-2. [矩阵](/linear-algebra/matrix)
-3. [矩阵乘法](/linear-algebra/matrix-multiplication)
+
 
 ---
 
@@ -101,9 +98,6 @@ AI算法工程师需要掌握的数学知识，可以分成六个核心模块：
 
 ### 推荐学习顺序
 
-1. [导数](/calculus-optimization/derivative)
-2. [梯度](/calculus-optimization/gradient)
-3. [梯度下降](/calculus-optimization/gradient-descent)
 
 ---
 
@@ -136,9 +130,7 @@ AI算法工程师需要掌握的数学知识，可以分成六个核心模块：
 
 ### 推荐学习顺序
 
-1. [随机变量](/probability-statistics/random-variable)
-2. [概率分布](/probability-statistics/distribution)
-3. [最大似然估计](/probability-statistics/mle)
+
 
 ---
 
