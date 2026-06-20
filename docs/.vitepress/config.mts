@@ -58,7 +58,8 @@ export default defineConfig({
       {
         text: '优化方法',
         items: [
-          { text: '优化方法', link: '/optimization/optimization' }
+          { text: '优化方法', link: '/optimization/optimization' }，
+          { text: '数值稳定性', link: '/optimization/numerical-stability' }
         ]
       },
     {
