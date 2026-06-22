@@ -6,10 +6,15 @@ export default defineConfig({
   base: '/ai-math-map/',
   lang: 'zh-CN',
 
-  // 开启数学公式渲染
-  markdown: {
-    math: true
-  },
+  // ========== 【临时注释】数学公式支持 ==========
+  // 后续启用步骤：
+  // 1. 取消下方 markdown 配置的注释
+  // 2. 执行 npm install -D markdown-it-mathjax3
+  // 3. 重新运行 dev / build 即可
+  // markdown: {
+  //   math: true
+  // },
+  // ============================================
 
   // SEO与图标配置
   head: [
